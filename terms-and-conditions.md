@@ -1,7 +1,7 @@
 📄 Terms and Conditions
 Effective Date: 2 August 2025
 
-These Terms and Conditions ("Terms") govern your use of the Friendly Reminder mobile application ("App"), owned and operated by [Your Company or Your Name].
+These Terms and Conditions ("Terms") govern your use of the Friendly Reminder mobile application ("App").
 
 By using the app, you agree to be bound by these Terms. If you do not agree, please do not use the app.
 
@@ -30,7 +30,7 @@ To the fullest extent permitted by law, Friendly Reminder is not liable for any 
 We may suspend or terminate your access to the app if you violate these Terms.
 
 7. Governing Law
-These Terms are governed by the laws of [Insert Country/State], without regard to conflict of laws.
+These Terms are governed by the laws of California, US, without regard to conflict of laws.
 
 8. Contact Us
 If you have questions about these Terms, please contact us at:
