@@ -1,1 +1,1 @@
-# friendly-reminder-legal
+# The-Friendly-Reminder
